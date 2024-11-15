@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DaggerHilt</string>
+    <string name="curency">Валюты мира</string>
+    <string name="dollar">Dollar</string>
+</resources>
